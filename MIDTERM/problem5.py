@@ -27,8 +27,3 @@ def uniqueValues(aDict):
     return(uniqueKeys)
     
 uniqueValues(aDict)
-
-
-
-
-# keylist.append(key1) if key1 not in keylist else keylist
